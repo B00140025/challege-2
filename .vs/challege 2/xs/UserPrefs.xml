@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8E400CDA-7F71-8F5B-696D-4E5474AC7377}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 2/Scripts/SpawnManagerX.cs">
+    <Files>
+      <File FileName="Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs" Line="19" Column="38" />
+      <File FileName="Assets/Challenge 2/Scripts/SpawnManagerX.cs" Line="30" Column="33" />
+      <File FileName="Assets/Challenge 2/Scripts/PlayerControllerX.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b938479-a06f-4a5a-9a59-e617f880e87a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
